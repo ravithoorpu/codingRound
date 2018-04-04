@@ -85,5 +85,5 @@ public class FlightBookingTest {
         if (PlatformUtil.isLinux()) {
             System.setProperty("webdriver.chrome.driver", "chromedriver_linux");
         }
-    }
+    }}
 }
